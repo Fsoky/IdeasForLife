@@ -1,6 +1,4 @@
 # Воплощаю ваши идеи в реальность!
-
-### Исходники с роликов данной рубрики
-__[YouTube Фсоки](https://www.youtube.com/c/Фсоки)__
+## [YouTube Фсоки](https://www.youtube.com/c/Фсоки)
 
 ### [Эпизод 1](https://www.youtube.com/watch?v=tjZ6caNGDmU)
